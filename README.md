@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/rugellioliveira/Analise_de_salarios_area_de_da
 
 Ou execute localmente:
 
-streamlit run streamlit-app.py
+
 
 ## 💻 Como Executar
 
@@ -46,7 +46,7 @@ streamlit run streamlit-app.py
    git clone https://github.com/rugellioliveira/Analise_de_salarios_area_de_dados.git
    
 2- Instale as dependências:
-
+```bash
    pip install -r requirements.txt
 
 3- Execute o notebook principal no Jupyter:
