@@ -32,8 +32,8 @@ https://raw.githubusercontent.com/rugellioliveira/Analise_de_salarios_area_de_da
 - Análise por país/região  
 - Identificação de outliers e padrões interessantes  
 
-## 🚀 Dashboard interativo:
- [**Acesse a aplicação online aqui**](https://salarios-area-dados.streamlit.app/)]
+## 🚀 Dashboard interativo
+ [**Acesse a aplicação online aqui**](https://salarios-area-dados.streamlit.app/)
 
 Ou execute localmente:
 
