@@ -36,19 +36,21 @@ https://raw.githubusercontent.com/rugellioliveira/Analise_de_salarios_area_de_da
  [**Acesse a aplicação online aqui**](https://salarios-area-dados.streamlit.app/)
 
 Ou execute localmente:
-
-
+```bash
+   streamlit run streamlit-app.py
+```
 
 ## 💻 Como Executar
 
 1- Clone o repositório:
-
+```bash
    git clone https://github.com/rugellioliveira/Analise_de_salarios_area_de_dados.git
-   
+```
 2- Instale as dependências:
 ```bash
    pip install -r requirements.txt
-
+```
 3- Execute o notebook principal no Jupyter:
-
+```bash
     Analise_de_salarios_area_de_dados.ipynb
+```
