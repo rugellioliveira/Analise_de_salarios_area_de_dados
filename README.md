@@ -41,11 +41,14 @@ streamlit run streamlit-app.py
 
 ## 💻 Como Executar
 
-1. Clone o repositório:
+1- Clone o repositório:
+
    git clone https://github.com/rugellioliveira/Analise_de_salarios_area_de_dados.git
    
-2. Instale as dependências:
+2- Instale as dependências:
+
    pip install -r requirements.txt
 
-3. Execute o notebook principal no Jupyter:
+3- Execute o notebook principal no Jupyter:
+
     Analise_de_salarios_area_de_dados.ipynb
